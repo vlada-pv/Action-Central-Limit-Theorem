@@ -1,2 +1,2 @@
 # Action-Central-Limit-Theorem
-Demonstration of the convergence of sample statistics to population parameters and the Central Limit Theorem for a chosen distribution by generating samples of varying sizes and constructing different types of confidence intervals.
+This repository contains code and visualizations to explore the convergence of sample statistics to population parameters for a chosen distribution. The project focuses on illustrating the Central Limit Theorem and constructing various types of confidence intervals for different sample sizes. By generating samples and analyzing their properties, this project aims to deepen understanding of statistical concepts and provide hands-on experience with statistical inference techniques.
